@@ -28,7 +28,9 @@ Here you can see how it works:
 ![image](https://user-images.githubusercontent.com/72012965/165030192-7568656e-0a0a-42bd-82b2-1d1c56eb5be2.png)
 
 
-* And finally, at the end of the page there will be a quiz, which will test the user's knowledge and impressions about the place, and the results will determine how much he knows or does not know about the place.
+**And finally, at the end of the page there will be a quiz, which will test the user's knowledge and impressions about the place, and the results will determine how much he knows or does not know about the place. There will be the name of places and questions next to it :**
+
+![image](https://user-images.githubusercontent.com/72012965/165031358-d50a96e8-9542-4389-bada-3e1fc4f912ae.png)
 
 
  

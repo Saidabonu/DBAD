@@ -1,9 +1,9 @@
-#### * Team15.erwin file contains ErWin model of the database where all logical and physical schemas.
+#### Team15.erwin file contains ErWin model of the database where all logical and physical schemas.
 #### Team15_ConceptDiagram.jpg includes a screenshot of Concept Diagram
 #### Team15_LogicalSchema.jpg includes a screenshot of Logical Schema
 #### Team15_DDL.sql and Team15_DML.sql contain the structure of the database and sql queries
 #### Team15_main.pdf is the main report in the format of pdf according to requirement
-
+#### Team15_App is a folder which includes Database works and software vision
 -------------------------------------------------------
 
 

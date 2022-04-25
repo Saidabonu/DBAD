@@ -27,6 +27,10 @@ Here you can see how it works:
 
 ![image](https://user-images.githubusercontent.com/72012965/165030192-7568656e-0a0a-42bd-82b2-1d1c56eb5be2.png)
 
+#### If you are sure where to tarvel exactly, you can easily search with its name and find information about it:
+
+![image](https://user-images.githubusercontent.com/72012965/165033315-66f9c412-bba3-4928-b042-ccc892c068bd.png)
+
 
 **And finally, at the end of the page there will be a quiz, which will test the user's knowledge and impressions about the place, and the results will determine how much he knows or does not know about the place. There will be the name of places and questions next to it :**
 

@@ -1,3 +1,13 @@
+### Team15.erwin file contains ErWin model of the database where all logical and
+### Team15_ConceptDiagram.jpg includes a screenshot of Concept Diagram
+### Team15_LogicalSchema.jpg includes a screenshot of Logical Schema
+### Team15_DDL.sql and Team15_DML.sql contain the structure of the database and the manually
+### Team15_main.pdf is the main report in the format of pdf according to requirement
+
+
+
+
+
 # CITY LIGHTS
 
 ## An application that assists in discovering city lights in different countries

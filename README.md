@@ -23,7 +23,12 @@ Here you can see how it works:
 
 ![image](https://user-images.githubusercontent.com/72012965/165029083-ab55ce47-9e9b-429e-9936-3f4ceda565d3.png)
 
+#### User who is interested in either of touristic areas will be available to see the description and its provided photos about each places.
 
+![image](https://user-images.githubusercontent.com/72012965/165030192-7568656e-0a0a-42bd-82b2-1d1c56eb5be2.png)
+
+
+* And finally, at the end of the page there will be a quiz, which will test the user's knowledge and impressions about the place, and the results will determine how much he knows or does not know about the place.
 
 
  

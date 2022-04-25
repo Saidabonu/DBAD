@@ -7,3 +7,6 @@ Here you can see how it works:
 
 ![Screenshot 2022-04-25 101458](https://user-images.githubusercontent.com/72012965/165026015-309d1db5-728a-4d1d-a73a-e176fdaa87a6.png)
 
+* After choosing country, the regions of this area will be shown to the user
+
+
